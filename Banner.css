@@ -1,0 +1,19 @@
+.banner{
+    text-align: center;
+    padding:2.5em 2em;
+
+}
+
+.banner-titulo{
+    font-size: 48px;
+    font-weight: 200;
+}
+
+.banner-texto{
+    font-weight: 200;
+    margin: 20px;
+}
+
+.banner-pesquisa{
+    background-color: orange;
+}
